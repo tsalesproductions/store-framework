@@ -4,7 +4,9 @@
     font-weight: normal;
     color: gray;
     border: 2px solid black;
-    padding: 24px;
+    margin: 0px;
+    padding: 0px;
+    max-width: 1260px;
 }
 
 .infoCardCallActionContainer :global(.vtex-button) {
@@ -17,4 +19,8 @@
     color: gray;
     background-color: blue;
     border: transparent;
+}
+
+.infoCardContainer--vintage {
+    background-color: #EDCFD1
 }
