@@ -2,7 +2,8 @@
   "store.home": {
     "blocks": [
       "info-card",
-      "flex-layout.row"
+      "flex-layout.row",
+      "shelf"
     ]
   },
   "flex-layout.row":{
@@ -16,7 +17,7 @@
       "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/utensilios-cozinha-min.png",
       "isFullModeStyle": true,
       "headline": "Time to rethink your kitchen",
-      "callToActionText": "Discover",
+      "callToActionText": "Discoverr",
       "textPosition": "center"
     }
   },
