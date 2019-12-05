@@ -2,3 +2,8 @@
     {PropriedadeDeCSS}: {ValorDesejado};
     {PropriedadeDeCSS}: {ValorDesejado};
 } 
+
+.{CSSHandle}--{blockClass} {
+    {PropriedadeDeCSS}: {ValorDesejado};
+    {PropriedadeDeCSS}: {ValorDesejado};
+}
