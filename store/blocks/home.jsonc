@@ -2,7 +2,8 @@
   "store.home": {
     "blocks": [
       "rich-text",
-      "info-card"
+      "info-card",
+      "info-card2"
     ]
   },
   "rich-text": {
